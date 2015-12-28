@@ -20,7 +20,7 @@ import java.util.List;
 
 public class MainActivity extends ActionBarActivity implements DateInterpreter,FormView.EventClickListener{
     private FormView formView;
-    private static String Tag = "MainAty2";
+    private static String Tag = "MainAty2.";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
