@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FormView">
+        <attr name="leftMenuWidth" format="dimension"></attr>
+        <attr name="leftMenuHeight" format="dimension"></attr>
+        <attr name="leftMenuBackgroundColor" format="color"></attr>
+        <attr name="leftMenuTextSize" format="dimension"></attr>
+        <attr name="leftMenuTextColor" format="color"></attr>
+        <attr name="headerMenuWidth" format="dimension"></attr>
+        <attr name="headerMenuHeight" format="dimension"></attr>
+        <attr name="headerMenuTextColor" format="color"></attr>
+        <attr name="headerMenuBachgroundColor" format="color"></attr>
+        <attr name="headerMenuTextSize" format="dimension"></attr>
+        <attr name="headerMenuTextChooseColor" format="color"></attr>
+        <attr name="allRowCount" format="integer"></attr>
+        <attr name="visibleRowCount" format="integer"></attr>
+        <attr name="rowDivideColor" format="color"></attr>
+        <attr name="rowDivide" format="dimension"></attr>
+        <attr name="columnCount" format="integer"></attr>
+        <attr name="columnDivideColor" format="color"></attr>
+        <attr name="columnDivide" format="dimension"></attr>
+        <attr name="contentBackgroundColor" format="color"></attr>
+        <attr name="contentBackgroundChooseColor" format="color"></attr>
+        <attr name="contentTextColor" format="color"></attr>
+        <attr name="contentMarginTop" format="dimension"></attr>
+        <attr name="contentTextSize" format="dimension"></attr>
+        <attr name="canScroll" format="boolean"></attr>
+        <attr name="contentTextLineSpace" format="dimension"></attr>
+    </declare-styleable>
+</resources>

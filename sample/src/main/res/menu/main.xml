@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity" >
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/action_one_day_view"
+            android:title="@string/action_one_day_view"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+        <item android:id="@+id/action_two_day_view"
+            android:title="@string/action_two_day_view"
+            android:orderInCategory="100"
+            app:showAsAction="never"
+            />
+        <item android:id="@+id/action_three_day_view"
+            android:title="@string/action_three_day_view"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+        <item android:id="@+id/action_four_day_view"
+            android:title="@string/action_four_day_view"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+        <item android:id="@+id/action_five_day_view"
+            android:title="@string/action_five_day_view"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+        <item android:id="@+id/action_six_day_view"
+            android:title="@string/action_six_day_view"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+        <item android:id="@+id/action_seven_day_view"
+            android:title="@string/action_seven_day_view"
+            android:orderInCategory="100"
+            app:showAsAction="never"/>
+    </group>
+</menu>
